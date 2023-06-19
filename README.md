@@ -1,4 +1,4 @@
- [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif))
+ [![MasterHead]((https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif))
 <h1 align="center">Hi 👋, I'm Metin Okur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
