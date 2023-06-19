@@ -1,4 +1,4 @@
-[![MasterHead]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIxdzNua2l0eHp5a3FsazhkeWUxaXZhYnNkYzIyb2RzZGdrNmdxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTz2gJRh37GpDaiiyD/giphy.gif](https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
+ [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif))
 <h1 align="center">Hi 👋, I'm Metin Okur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
